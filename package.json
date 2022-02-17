@@ -1,0 +1,22 @@
+{
+  "name": "read-me-generator",
+  "version": "1.0.0",
+  "description": "## Project Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwenewasko/Read-Me-Generator---HW9.git"
+  },
+  "author": "gwen ewasko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwenewasko/Read-Me-Generator---HW9/issues"
+  },
+  "homepage": "https://github.com/gwenewasko/Read-Me-Generator---HW9#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
