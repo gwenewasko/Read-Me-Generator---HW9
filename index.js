@@ -7,31 +7,31 @@ inquirer
       type: "input",
       message: "What is your project title?",
     },
-    // {
-    //   name: "projectDescription",
-    //   type: "input",
-    //   message: "What is your project's description?",
-    // },
-    // {
-    //   name: "projectInsallation",
-    //   type: "input",
-    //   message: "Any installtion instructions?",
-    // },
-    // {
-    //   name: "projectUsage",
-    //   type: "input",
-    //   message: "Any notes on project useage?",
-    // },
-    // {
-    //   name: "projectContribution",
-    //   type: "input",
-    //   message: "Do you have any project contributions to document?",
-    // },
-    // {
-    //   name: "projectTests",
-    //   type: "input",
-    //   message: "Any testing you ran to document?",
-    // },
+    {
+      name: "projectDescription",
+      type: "input",
+      message: "What is your project's description?",
+    },
+    {
+      name: "projectInsallation",
+      type: "input",
+      message: "Any installtion instructions?",
+    },
+    {
+      name: "projectUsage",
+      type: "input",
+      message: "Any notes on project useage?",
+    },
+    {
+      name: "projectContribution",
+      type: "input",
+      message: "Do you have any project contributions to document?",
+    },
+    {
+      name: "projectTests",
+      type: "input",
+      message: "Any testing you ran to document?",
+    },
     {
       name: "licenseType",
       type: "list",

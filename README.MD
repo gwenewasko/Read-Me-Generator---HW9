@@ -1,6 +1,6 @@
-# hw9
+# hw9 gwen ewasko
 
-![BSD3](https://img.shields.io/badge/License-BSD3-blue.svg)
+![APACHE2.0](https://img.shields.io/badge/License-APACHE2.0-blue.svg)
 
 ## Table of Contents:
 
@@ -15,11 +15,11 @@
 
 ## Description:
 
-undefined
+lwefpwojefpwef
 
 ## Installation:
 
-undefined
+weoijfwepf
 
 ## Useage:
 
@@ -27,15 +27,15 @@ undefined
 
 ## Contributing:
 
-undefined
+woeifowefij
 
 ## Tests:
 
-undefined
+woinwienv
 
 ## License:
 
-This project is covered under BSD3 license.
+This project is covered under APACHE2.0 license.
 
 ## Screenshot
 
