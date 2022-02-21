@@ -143,7 +143,7 @@ ${markdown.projectTests}
 
 ${renderLicenseField(markdown.licenseType)}
 
-## Screenshot
+## Screenshot:
 ![application screenshot](${markdown.appScreenshot})
 
 ## Links:
