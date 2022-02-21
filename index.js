@@ -18,7 +18,7 @@ inquirer
       message: "Any installtion instructions?",
     },
     {
-      name: "projectUsage",
+      name: "projectUseage",
       type: "input",
       message: "Any notes on project useage?",
     },
