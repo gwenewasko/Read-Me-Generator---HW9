@@ -39,7 +39,7 @@ This project is covered under MIT license.
 
 ## Screenshot:
 
-![application screenshot](./img/HW09.png)
+![READMe.MD generator example](./img/HW09.png)
 
 ## Demo Video:
 

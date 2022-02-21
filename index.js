@@ -123,6 +123,7 @@ ${renderLicenseType(markdown.licenseType)}
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [License](#license)
+- [Screenshot](#screenshot)
 - [Links](#links)
 - [Questions](#questions)
 
